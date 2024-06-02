@@ -1,0 +1,52 @@
+{
+    "user" : {
+        "fullName": "Zweli Ngwenya",
+        "photo" : "./IMG_1679468545415.png"
+    },
+    "socialAccounts":{
+        "github":"https://github.com/Brianmahlatse",
+        "linkedin":"https://www.linkedin.com/in/brian-mahlatse-malau/"
+    },
+    "city" : {
+        "name" : "Liverpool",
+        "photo" : "./Liver.jpg",
+        "description" : "Liverpool, located in the northwest of England, is a vibrant city renowned for its rich history, cultural diversity, and passionate sports scene. Home to one of the most successful football clubs in the world, Liverpool FC, the city pulses with the heartbeat of its devoted fans. Anfield Stadium, the iconic home ground of Liverpool FC, stands as a symbol of the city's footballing legacy and fervor. Beyond the football pitch, Liverpool offers a tapestry of attractions, from its UNESCO-listed waterfront and historic landmarks to its thriving arts and music scene. Whether exploring the vibrant streets, soaking in the maritime heritage at the Albert Dock, or cheering on the Reds at Anfield, visitors to Liverpool are embraced by its unique charm and undeniable spirit."
+    },
+    "foreignLanguage" : {
+        "language" :   "German is a West Germanic language spoken by over 100 million people worldwide, primarily in Germany, Austria, Switzerland, and parts of Belgium and Luxembourg. It is also one of the official languages of the European Union. With a rich literary tradition dating back centuries, German has contributed significantly to philosophy, science, and the arts.",
+        "phrases" : [{
+            "englishPhrase" : "One who is not taught by their mother will be taught by the world.",
+            "foreignLanguage" : "In einem Fall, in dem jemand nicht von seiner Mutter unterrichtet wird, wird er vom Leben unterrichtet."
+        },
+        {
+            "englishPhrase" : "Knowledge is wealth.",
+            "foreignLanguage" : "Wissen ist wertvoll"
+        }]
+    },
+    "qualification":{
+        "name":"Ba in Public Management and Governance",
+        "institution":"University of Johannesburg"
+        },
+    "favouriteSubjects" : [
+        {   "name":"Information Management:",
+            "photo" : "./information-management.png",
+            "description" : " Organizing, accessing, and utilizing data efficiently."
+        
+        },
+        {   "name":"Economics:",
+            "photo" : "./economics.jpg",
+            "description" : " Study of how societies allocate resources to meet unlimited wants."
+        },
+        {    "name":"Human Resource Management:",
+            "photo" : "./HRM.png",
+            "description" : " Organizing, developing, and maximizing the potential of a company's workforce."
+
+
+
+
+
+
+            
+        }
+    ]
+}

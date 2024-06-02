@@ -1,0 +1,40 @@
+{
+    "name": "materialize",
+    "version": "1.0.0",
+    "description": "Description of your project",
+    "main": "index.js",
+    "type": "module",
+    "license": "AGPL-3.0-or-later",
+    "private": false,
+    "engines": {
+      "node": ">=14.0.0",
+      "npm": ">=6.0.0"
+    },
+    "homepage": "https://example.com",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/your-username/your-repo"
+    },
+    "bugs": {
+      "url": "https://github.com/your-username/your-repo/issues"
+    },
+    "keywords": [
+      "keyword1",
+      "keyword2"
+    ],
+    "author": {
+      "name": "Zweli-Ngwenya",
+      "email": "zwelihle62@gmail.com",
+      "url": "https://your-website.com"
+    },
+    "contributors": [],
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build"
+    },
+    "devDependencies": {
+      "vite": "^4.3.8",
+      "vite-plugin-handlebars": "^1.6.0"
+    }
+  }
+  
